@@ -11,12 +11,13 @@
 ```text
 README.md                     仓库入口
 docs/
-└── official/                 官方资料原文、非官方译文与学习指南
-    ├── README.md             每个文件的用途、中英文对照和阅读建议
-    ├── learning-guide-zh-CN.md 中文学习指南：摘要与练习
-    ├── learning-guide-en.md   英文学习指南
-    ├── en/                   148 篇英文原文及 INDEX.md
-    └── zh-CN/                148 篇中文译文及 INDEX.md
+├── official/                 官方资料原文、非官方译文与学习指南
+│   ├── README.md             每个文件的用途、中英文对照和阅读建议
+│   ├── learning-guide-zh-CN.md 中文学习指南：摘要与练习
+│   ├── learning-guide-en.md   英文学习指南
+│   ├── en/                   148 篇英文原文及 INDEX.md
+│   └── zh-CN/                148 篇中文译文及 INDEX.md
+└── rules/                    个人全局与项目规则模板（中英双版本）
 ```
 
 中英文目录保留相同的子目录结构。例如，`docs/official/en/config-file/config-basic.md` 对应 `docs/official/zh-CN/config-file/config-basic.zh-CN.md`。
@@ -25,6 +26,7 @@ docs/
 
 | 入口 | 适合做什么 |
 | --- | --- |
+| [中英文规则模板](docs/rules/README.md) | 获取全局与 FPGA／上位机项目规则，了解分类和安装方式。 |
 | [每个文件的用途](docs/official/README.md) | 根据问题选择文档，区分名称相似的指南与技术参考。 |
 | [全部中文文档索引](docs/official/zh-CN/INDEX.md) | 按主题浏览全部译文。 |
 | [全部英文原文索引](docs/official/en/INDEX.md) | 查阅原文和官网来源。 |
