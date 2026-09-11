@@ -1,5 +1,7 @@
 # Codex 中英文学习资料
 
+个人的 ChatGPT / Codex 使用说明与中英文学习资料仓库。
+
 资料快照日期：2026-09-11。来源：[ChatGPT Learn 文档](https://learn.chatgpt.com/docs)。
 
 **想知道每个文件的作用，请打开 [文档用途总览](docs/README.md)。** 它按主题解释全部 148 篇文档，并提供中英文链接。
