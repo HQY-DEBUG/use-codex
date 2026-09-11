@@ -27,7 +27,7 @@ The following exercises are original suggestions for this learning folder. They 
 Send this request to Codex:
 
 ```text
-Read docs/en/prompting.md. Create practice/my-notes.md with
+Read docs/official/en/prompting.md. Create practice/my-notes.md with
 five questions I should be able to answer after studying it. Give each
 question a blank answer area and a link to the relevant source section.
 Check that the links point to headings that exist in the local file.

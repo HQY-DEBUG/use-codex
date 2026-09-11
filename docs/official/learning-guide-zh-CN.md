@@ -27,7 +27,7 @@
 把下面的请求发给 Codex：
 
 ```text
-阅读 docs/en/prompting.md，创建 practice/my-notes.md，
+阅读 docs/official/en/prompting.md，创建 practice/my-notes.md，
 列出学完后我应该能回答的五个问题。每题留出空白作答区，并链接到原文
 对应小节。检查链接指向的小节标题确实存在于本地文件中。
 ```
